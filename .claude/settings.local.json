@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 3s python3 src/todo_app/main.py)",
+      "Bash(python3 src/todo_app/main.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
